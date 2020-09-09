@@ -2,7 +2,7 @@
 
 🧔 **Mohammed Essam, Communications and Electronics Engineer**
 
-- 🔭 I’m currently working on Trivia project "In Web Advanced Nanodegree - Udacity"
+- 🔭 I’m currently working on Coffee Shop project "Final Project in the Web Advanced Nanodegree - Udacity"
 - 🌱 I’m currently learning Python, Flask, Javascript, NodeJS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
