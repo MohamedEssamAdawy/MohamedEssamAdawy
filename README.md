@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning Rust, Kubernetes and Blockchain.
 - 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about Java SE, Python, C++, V and anything related to programming and software. 
-- 📫 How to reach me: [@MElborolossy](https://twitter.com/MElborolossy)
+- 📫 How to reach me: [![](images/twitter.png)](https://twitter.com/MElborolossy) [![](images/linkedin.png)](https://www.linkedin.com/in/mohammedelborolossy/)
 - ⚡ Fact: I'm really :heart: programming and coding.
+
+[![Essam's GitHub stats](https://github-readme-stats.vercel.app/api?username=melborolossy&&theme=city_lights&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
